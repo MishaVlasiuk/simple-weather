@@ -8,7 +8,6 @@ body{
 	margin:auto;
 }
 header {
-	background:url(../images/header_background.jpg) repeat-x;
 	height:80px;
 	margin:0;
 }
@@ -19,7 +18,6 @@ header h1{
 	color:white;
 }
 section{
-	background:url(../images/background.jpg) no-repeat;
 	height:553px;
 	margin:2px 0 2px 0;
 }
