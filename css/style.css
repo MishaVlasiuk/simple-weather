@@ -8,13 +8,6 @@ body {
 	text-decoration:none;
 	color:#fff;
 }
-header{
-	font-family: 'Raleway', serif;
-	font-size:18px;
-	margin-top:80px;
-	margin-left:120px;
-	color:white;
-}
 section{
 	background:url(../images/section_background.jpg) no-repeat;
 	height:553px;
