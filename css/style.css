@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 body {
-	background: url("simple-weather/images/backround.jpg") no-repeat;
+	background: url("/images/backround.jpg") no-repeat;
 	background-size: 100% 100%;
 }
 
