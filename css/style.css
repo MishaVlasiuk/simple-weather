@@ -62,7 +62,7 @@ section #btn_reset{
 
 section #city_weather{
 	width:765px;
-	font:45px Raleway;
+	font:50px Raleway;
 	text-align:center;
 	padding:10px 0 0 0;
 }
@@ -86,7 +86,7 @@ section #day_2{
 
 section .date_weather{
 	text-align:center;
-	font:bold 24px Raleway;
+	font:bold 25px Raleway;
 	width:319px;
 	padding:13px 0 0 0px;
 }
@@ -117,7 +117,7 @@ section .description{
 	padding:5px 0 0 0;
 	float:right;
 	text-align:center;
-	font:18px Raleway;
+	font:20px Raleway;
 }
 
 footer{
