@@ -53,7 +53,7 @@ $(function()
 			$('#day_'+i+' '+'.description').html(description);		
 			if(i==0) $('#day_'+i+' '+'.date_weather').html('Сьогодні'+'<br>'+days[clock.getDay()]+' '+weekDate+'\.'+month);
 			if(i==1) $('#day_'+i+' '+'.date_weather').html('Завтра'+'<br>'+days[clock.getDay()]+' '+weekDate+'\.'+month);
-			if(i==2) $('#day_'+i+' '+'.date_weather').html(days[clock.getDay()]+' '+weekDate+'\.'+month);
+			if(i==2) $('#day_'+i+' '+'.date_weather').html('Після завтра'+'<br>'+days[clock.getDay()]+' '+weekDate+'\.'+month);
 		}
 	}
 
