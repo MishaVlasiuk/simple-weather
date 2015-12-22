@@ -8,13 +8,6 @@ body{
 	margin:auto;
 
 }
-
-header {
-	background:url(../images/header_background.jpg) repeat-x;
-	height:80px;
-	margin:0;
-}
-
 @font-face{
 	font-family:"Adigiana_Extreme"; 
 	src: url("../fonts/Adigiana_Extreme.eot?") format("eot"), 
@@ -30,9 +23,8 @@ header h1{
 }
 
 section{
-	background:url(../images/section_background.jpg) no-repeat;
-	height:553px;
-	margin:2px 0 2px 0;
+	background:url(../images/background.jpg) no-repeat;
+	background-size: 100% 100%;
 }
 
 @font-face{
