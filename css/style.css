@@ -42,7 +42,7 @@ section #change_city{
 }
 
 section #input_city_name, #btn_get, #btn_reset{
-	font:15px Avdira;
+	font:15px Raleway;
 	color:#0C0C56;
 }
 
@@ -62,7 +62,7 @@ section #btn_reset{
 
 section #city_weather{
 	width:765px;
-	font:45px Avdira;
+	font:45px Raleway;
 	text-align:center;
 	padding:10px 0 0 0;
 }
@@ -86,7 +86,7 @@ section #day_2{
 
 section .date_weather{
 	text-align:center;
-	font:bold 25px Avdira;
+	font:bold 24px Raleway;
 	width:319px;
 	padding:13px 0 0 0px;
 }
@@ -107,7 +107,7 @@ section .temperature_weather{
 	float:right;
 	width:148px;
 	text-align:right;
-	font:50px Avdira;
+	font:40px Raleway;
 	padding:20px 0 20px 0;
 }
 
@@ -117,7 +117,7 @@ section .description{
 	padding:5px 0 0 0;
 	float:right;
 	text-align:center;
-	font:20px Avdira;
+	font:18px Raleway;
 }
 
 footer{
@@ -126,7 +126,7 @@ footer{
 }
 
 footer #author{
-	font: 14px Avdira;
+	font: 14px Raleway;
 	color:white;
 	margin: 10px 20px 0 0;
 	padding:0;
