@@ -15,7 +15,12 @@ header{
 	margin-left:120px;
 	color:white;
 }
-section {
+section{
+	background:url(../images/section_background.jpg) no-repeat;
+	height:553px;
+	margin:2px 0 2px 0;
+}
+section{
 	font-family:Raleway;
 	font-size:20px;
 	font-weight:bold;
