@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 body{
-	background-image: url("images/background.jpg") no-repeat;
-	background-size: 100% 100%;
+	background:#ADEADE;
 	margin:0;
 }
 #wrapper{
