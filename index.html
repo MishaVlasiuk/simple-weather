@@ -1,17 +1,41 @@
-<!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8"/>
-		<title>Погода в Україні</title>
-		<link href="style/css/style.css" rel="stylesheet" type="text/css">
-    </head>
-    <body>
-        <h1>Weather in Lviv</h>
-            <table>
-                <tr><th>Сьогодні</th><th>Завтра</th><th>Післязавтра</th></tr>
-                <tr><td id="todayTemp"></td><td id="tomorrowTemp"></td><td id="aftertomorrowTemp"></td></tr>
-            </table>
-        <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-        <script type="text/javascript" src="scripts/index.js"></script>
-    </body>
+<head>
+		<meta charset="utf-8"/>
+		<title>Weather in Lviv</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="wrapper">
+			<h1>Weather</h1>
+			<section>
+				<div id="content">
+				  <div id="first_line_section">
+						</form>
+						<div id="city_weather"></div>
+					<table><div id="day">
+							<div id="day_0">
+								<div class="date_weather"></div> 
+								<div class="description"></div>
+								<div class="image_weather" alt="image_weather"></div>
+								<div class="temperature_weather"></div>
+							</div>
+							<div id="day_1">
+								<div class="date_weather"></div> 
+								<div class="description"></div>
+								<div class="image_weather" alt="image_weather"></div>
+								<div class="temperature_weather"></div>
+							</div>
+							<div id="day_2">
+								<div class="date_weather"></div> 
+								<div class="description"></div>
+								<div class="image_weather" alt="image weather"></div>
+								<div class="temperature_weather"></div>
+							</div>
+					</div></table>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    	<script src="scripts/namecity.js"></script>
+	    <script type="text/javascript" src="scripts/geolocation.js"></script>
+    	<script type="text/javascript" src="scripts/script.js"></script>
+
+</body>
 </html>
