@@ -1,6 +1,6 @@
-body {
-	background: url("//images/backround.jpg") no-repeat;
-	background-size: 100% 100%;
+body{
+	background:#EEE6FF;
+	margin:0;
 }
 #wrapper{
 	width:960px;
