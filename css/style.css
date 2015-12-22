@@ -30,10 +30,100 @@ section {
 	border-radius: 20px;
 	radius: 10px;
 }
+section #content{
+	width:960px;
+	margin:0;
+	float:right;
+	color:#0C0C56;
+}
+
+section #first_line_section{
+	float:right;
+}
+
+section #change_city{
+	padding:10px 10px 0 0;
+	width:185px;
+	float:right;
+}
+
+section #input_city_name, #btn_get, #btn_reset{
+	font:15px Avdira;
+	color:#0C0C56;
+}
+
+section #btn{
+	padding:5px 0 0 0;
+}
+
+section #btn_get{
+	cursor:pointer;
+}
+
+section #btn_reset{
+	padding:0 7px 0 6px;
+	text-align:center;
+	cursor:pointer;
+}
+
+section #city_weather{
+	width:765px;
+	font:45px Avdira;
+	text-align:center;
+	padding:10px 0 0 0;
+}
+
+section #day{
+	height:200px;
+	padding:5px 0 0 0;
+}
+
+section #day_0, #day_1, #day_2{
+	width:319px;
+	padding:0;
+}
+section #day_0, #day_1{
+	float:left;
+}
+
+section #day_2{
+	float:right;
+}
+
+section .date_weather{
+	text-align:center;
+	font:bold 25px Avdira;
+	width:319px;
+	padding:13px 0 0 0px;
+}
+
+section #day_2 .date_weather{
+	padding:30px 0 14px 0;
+	font-size:27px;
+}
+
 section .image_weather{
 	float:right;
 	width:150px;
 	margin:0px;
+	padding:0 0 0 20px;
+}
+
+section .temperature_weather{
+	float:right;
+	width:148px;
+	text-align:right;
+	font:50px Avdira;
+	padding:20px 0 20px 0;
+}
+
+section .description{
+	width:319px;
+	height:25px;
+	padding:5px 0 0 0;
+	float:right;
+	text-align:center;
+	font:20px Avdira;
 }
 p {
 	font-family:Raleway;
