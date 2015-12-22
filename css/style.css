@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 body{
 	background:#ADEAA5;
 	margin:0;
@@ -12,34 +13,17 @@ header {
 	height:80px;
 	margin:0;
 }
-
-@font-face{
-	font-family:"Adigiana_Extreme"; 
-	src: url("../fonts/Adigiana_Extreme.eot?") format("eot"), 
-	url("../fonts/Adigiana_Extreme.woff") format("woff"), url("../fonts/Adigiana_Extreme.ttf") format("truetype"), 
-	url("../fonts/Adigiana_Extreme.svg#Adigiana_Extreme") format("svg"), url("../fonts/Adigiana_Extreme.otf") format("opentype");
-}
-
 header h1{
 	display:inline-block;
-	font:35px Adigiana_Extreme;
+	font:35px Raleway;
 	margin:12px 0 0 20px;
 	color:white;
 }
-
 section{
 	background:url(../images/background.jpg) no-repeat;
 	height:553px;
 	margin:2px 0 2px 0;
 }
-
-@font-face{
-	font-family:"Avdira"; 
-	src: url("../fonts/Avdira.eot?") format("eot"),
-	url("../fonts/Avdira.woff") format("woff"), url("../fonts/Avdira.ttf") format("truetype"),
-	url("../fonts/Avdira.svg#Avdira") format("svg"), url("../fonts/Avdira.otf") format("opentype");
-}
-
 section #content{
 	width:960px;
 	margin:0;
