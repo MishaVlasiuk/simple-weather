@@ -28,9 +28,15 @@ header h1{
 }
 
 section{
-	background:url(../images/section_background.jpg) no-repeat;
+	background:url(../images/background.jpg) no-repeat;
 	height:553px;
 	margin:2px 0 2px 0;
+	width:450px;
+	height:400px;
+	background:black;
+	opacity: 0.8;
+	border-radius: 20px;
+	radius: 10px;
 }
 
 @font-face{
