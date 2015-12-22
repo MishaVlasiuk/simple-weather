@@ -30,9 +30,13 @@ section {
 	border-radius: 20px;
 	radius: 10px;
 }
-section{
-	text-align: center;
-	
+section .image_weather{
+	float:right;
+	width:150px;
+	margin:0px;
+	padding:0 0 0 20px;
+	margin-left:30px;
+	margin-top:30px;
 }
 p {
 	font-family:Raleway;
