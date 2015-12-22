@@ -7,7 +7,6 @@ body{
 	width:960px;
 	margin:auto;
 }
-
 header {
 	background:url(../images/header_background.jpg) repeat-x;
 	height:80px;
@@ -30,48 +29,39 @@ section #content{
 	float:right;
 	color:#0C0C56;
 }
-
 section #first_line_section{
 	float:right;
 }
-
 section #change_city{
 	padding:10px 10px 0 0;
 	width:185px;
 	float:right;
 }
-
 section #input_city_name, #btn_get, #btn_reset{
 	font:15px Raleway;
 	color:#0C0C56;
 }
-
 section #btn{
 	padding:5px 0 0 0;
 }
-
 section #btn_get{
 	cursor:pointer;
 }
-
 section #btn_reset{
 	padding:0 7px 0 6px;
 	text-align:center;
 	cursor:pointer;
 }
-
 section #city_weather{
 	width:765px;
 	font:50px Raleway;
 	text-align:center;
 	padding:10px 0 0 0;
 }
-
 section #day{
 	height:200px;
 	padding:5px 0 0 0;
 }
-
 section #day_0, #day_1, #day_2{
 	width:319px;
 	padding:0;
@@ -79,30 +69,25 @@ section #day_0, #day_1, #day_2{
 section #day_0, #day_1{
 	float:left;
 }
-
 section #day_2{
 	float:right;
 }
-
 section .date_weather{
 	text-align:center;
 	font:bold 25px Raleway;
 	width:319px;
 	padding:13px 0 0 0px;
 }
-
 section #day_2 .date_weather{
 	padding:30px 0 14px 0;
 	font-size:27px;
 }
-
 section .image_weather{
 	float:right;
 	width:150px;
 	margin:0px;
 	padding:0 0 0 20px;
 }
-
 section .temperature_weather{
 	float:right;
 	width:148px;
@@ -110,7 +95,6 @@ section .temperature_weather{
 	font:40px Raleway;
 	padding:20px 0 20px 0;
 }
-
 section .description{
 	width:319px;
 	height:25px;
@@ -119,30 +103,14 @@ section .description{
 	text-align:center;
 	font:20px Raleway;
 }
-
 footer{
 	height:30px;
 	background:#258DA6;
 }
-
 footer #author{
 	font: 14px Raleway;
 	color:white;
 	margin: 10px 20px 0 0;
 	padding:0;
 	float:right;
-}
-
-footer #year{
-	padding:0 0 0 6px;
-}
-
-footer a:link{
-	text-decoration:none;
-	color:white;
-}
-
-footer a:hover{
-	color:#0F1182;
-	cursor:pointer;
 }
